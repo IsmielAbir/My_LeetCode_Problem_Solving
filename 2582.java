@@ -1,0 +1,1 @@
+return n - Math.abs(n - 1 - time % (n * 2 - 2));
